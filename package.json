@@ -1,4 +1,7 @@
 {
   "name": "top-10-backend",
-  "packageManager": "yarn@4.0.0"
+  "packageManager": "yarn@4.0.0",
+  "dependencies": {
+    "@icbmike/game-lobby-backend": "^0.3.0"
+  }
 }
